@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">morris</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">open drawer</string>
+    <string name="drawer_close">open drawer</string>
+    <string name="ok">OK!</string>
+    <string name="button_start">Tap To Start</string>
+
+    <string-array name="options">
+        <item>  New Game</item>
+        <item>  Settings</item>
+        <item>  Rules</item>
+        <item>  Video</item>
+        <item>  Exit</item>
+    </string-array>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>
